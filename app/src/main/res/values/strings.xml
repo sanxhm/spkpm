@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Talent Management</string>
+    <string name="div">Divisi</string>
+    <string name="cf">CF</string>
+    <string name="sf">SF</string>
+    <string name="na">NA</string>
+    <string name="d1">Siaran</string>
+    <string name="d2">MD</string>
+    <string name="d3">Jurnalis</string>
+    <string name="d4">Teknisi</string>
+</resources>
